@@ -13,18 +13,18 @@ How it should work:
     - Generation private and public key
     - saving the card file
     - encrypt the card file
-    # The card file will not be deleted
-    # as i plan it to be a system where you don't need the keys
-    # also the card file should be safed only on the central Bank.
-    # the teminal can access the unencrypted file to check the login data
+    // The card file will not be deleted
+    // as i plan it to be a system where you don't need the keys
+    // also the card file should be safed only on the central Bank.
+    // the teminal can access the unencrypted file to check the login data
 
 - Login
     - enter card number and pin
     - check if login is correct
-    # A verification system would be nice
+    // A verification system would be nice
 
 - Account
-    # Files get decrypted as the user needs its content
-    # Card number needs to be put in to transfer money
-    # Make a Money transfer system using the keys
+    // Files get decrypted as the user needs its content
+    // Card number needs to be put in to transfer money
+    // Make a Money transfer system using the keys
     
